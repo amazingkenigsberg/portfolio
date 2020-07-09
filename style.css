@@ -61,13 +61,3 @@ body {
 #image{
     margin: 25px;
 }
-
-#sitemap{
-    color: greenyellow;  
-    margin: 25px;
-    border: groove purple;
-    position: absolute;
-    top: 50px;
-    right: 300px;
-    height: 150px;
-}
