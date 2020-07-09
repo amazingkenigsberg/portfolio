@@ -1,0 +1,29 @@
+
+h1 {
+    color: black;
+    font-family: cursive;
+    font: outline;
+    font-weight: 200;
+}
+
+ul {
+    color: greenyellow;
+    font-weight: 600;
+}
+
+body {
+    background-color: crimson;
+}
+
+a {
+    color: gold;
+}
+
+.body-text{
+    color: greenyellow;  
+    margin: 25px;
+}
+
+#list{
+    margin: 25px;
+}
