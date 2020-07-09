@@ -1,29 +1,73 @@
 
 h1 {
     color: black;
-    font-family: cursive;
+    font-family: 'Metal Mania', cursive;
     font: outline;
     font-weight: 200;
+    margin: 25px;
+    padding: 5px;
 }
 
 ul {
     color: greenyellow;
     font-weight: 600;
+    font-family: 'Metal Mania', cursive;
 }
 
 body {
     background-color: crimson;
 }
 
-a {
-    color: gold;
+.links {
+    color: greenyellow;
+    font-family: 'Metal Mania', cursive;
+    border: groove purple;
+    display: inline-block;
+    margin: 25px;
+    padding: 5px;
 }
 
 .body-text{
     color: greenyellow;  
     margin: 25px;
+    border: groove purple;
+    padding: 5px;
 }
 
 #list{
     margin: 25px;
+}
+
+.randy{
+    margin: 25px;
+    padding: 5px;
+}
+
+#thrash{
+    text-align: center;
+    background-color: purple;
+}
+
+#THRASH{
+    text-align: center;
+    background-color: purple;
+}
+
+#Thrash{
+    text-align: center;
+    background-color: purple;
+}
+
+#image{
+    margin: 25px;
+}
+
+#sitemap{
+    color: greenyellow;  
+    margin: 25px;
+    border: groove purple;
+    position: absolute;
+    top: 50px;
+    right: 300px;
+    height: 150px;
 }
